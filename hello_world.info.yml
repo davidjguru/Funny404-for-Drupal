@@ -1,0 +1,5 @@
+name: Hello World Module
+description: Creates a simple page showing a salute.
+package: Custom
+type: module
+core: 8.x
